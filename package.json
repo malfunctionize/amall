@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cross-fetch": "^3.1.5",
     "dalsh": "^0.0.3",
+    "decompress": "^4.2.1",
     "isomorphic-git": "^1.23.0"
   }
 }
